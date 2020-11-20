@@ -1,0 +1,157 @@
+{
+    "roomName": "CS564",
+    "savedDate": "2020-11-19",
+    "savedTime": "12:10",
+    "messages": [
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:50",
+            "content": "안녕하세요 전산학부 석사과정 A 입니다CS564 빅데이터 분석 팀플 같이 하자고 갠슬주셔서 다시 한 번 감사드려요  ㅎㅎ\n전에 말씀드렸다시피, team sign-up은 등록해두었구요(Team 10)\n"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:50",
+            "content": "Syllabus 보니 다음주 화요일(Oct 13)에 플젝 가이드라인 라이브 세션이 있어서 그 이후에 다 같이 brainstorming이랑 discussion 하면서 주제 정하고 역할 분담하면 좋을 것 같습니다"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:50",
+            "content": "다행히 교수님께서 지난 프로젝 결과물들을 공유해주셔서 (https://drive.google.com/file/d/1PtAakWLSed7Iwg8JPmDlXKXQc1VEpgnl/view) 나중에 참고하면 도움 많이 될 것 같고, 교수님 연구실에서 쓴 논문들 중 나중에 저희가 플젝할 때 참고될 만한 몇 개 논문들(압축파일)도 미리 올려놓을게요"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:51",
+            "content": "교수님께서도 팀웍을 강조하신만큼 같이 많이 배우고 무사히 한학기 마무리 지었으면 좋겠습니다~ 좋은 밤 되세요~ "
+        },
+        {
+            "senderName": "D",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:51",
+            "content": "네 안녕하세요 ㅎㅎ 다들 반갑습니다!"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:52",
+            "content": "파일: CS564_플젝_참고용논문들.zip"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:54",
+            "content": "넵넵 반갑습니다 현성씨ㅎㅎ"
+        },
+        {
+            "senderName": "E",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:56",
+            "content": "안녕하세요 전산학부 석사과정 E입니다. 다음주 화요일 라이브 세션 이후 시간 저는 좋습니다 자료 공유 감사해요 다들 반가워요!"
+        },
+        {
+            "senderName": "C",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:57",
+            "content": "안녕하세요. 전산학부 석사과정 C입니다. 함께 열심히 해봐요^~^"
+        },
+        {
+            "senderName": "C",
+            "sentDate": "2020-10-8",
+            "sentTime": "20:58",
+            "content": "저희 화요일에 같이 얘기 나누는 건 대면인가요, 아니면 줌으로 하나요?"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "21:00",
+            "content": "아 화욜에 교수님이 라이브 강의로 플젝 설명주신다고 하셔서"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "21:00",
+            "content": "저는 그 이후에 정하면 좋을 것 같아요"
+        },
+        {
+            "senderName": "C",
+            "sentDate": "2020-10-8",
+            "sentTime": "21:02",
+            "content": "아 화요일로 정해진 게 아니라 시간 의논을 하면 되는 일이었군요 알겠습니다:)"
+        },
+        {
+            "senderName": "D",
+            "sentDate": "2020-10-8",
+            "sentTime": "21:02",
+            "content": "네네 그렇게 해요!"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-8",
+            "sentTime": "21:03",
+            "content": "네네 알겠습니다"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:04",
+            "content": "안녕하세요 ㅎㅎ"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:05",
+            "content": "나중에 idea pitch 발표 관련 공지 올려주신다는데, 그 내용 확인해 본 이후에 1) 토픽 이랑 2) 데이터 수집(from kaggle 등) 에 대해 논의하는 시간 가지면 될 것 같은데 \n어떻게 생각하시나요?\n"
+        },
+        {
+            "senderName": "E",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:05",
+            "content": "안녕하세요! 저는 좋습니다"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:05",
+            "content": "넵넵"
+        },
+        {
+            "senderName": "D",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:08",
+            "content": "네넵 그렇게 해요!"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:08",
+            "content": "넵넵 아 글구 현성씨 생일 축하드려요 ㅎㅎ"
+        },
+        {
+            "senderName": "A",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:08",
+            "content": "이모티콘"
+        },
+        {
+            "senderName": "B",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:16",
+            "content": "네네 좋습니다"
+        },
+        {
+            "senderName": "D",
+            "sentDate": "2020-10-13",
+            "sentTime": "15:16",
+            "content": "아 ㅋㅋㅋ 넵 감사합니다!"
+        },
+        {
+            "senderName": "C",
+            "sentDate": "2020-10-13",
+            "sentTime": "16:57",
+            "content": "네 알겠습니다"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "args":[
+        {
+            "fileName": "./data/kakao_talk_test_input.txt",
+            "userName": "A"
+        }
+    ]
+}
