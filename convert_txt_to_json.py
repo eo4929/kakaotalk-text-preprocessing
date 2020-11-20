@@ -9,12 +9,6 @@ def covert_text_to_dict(text_filename):
         'savedDate': '',
         'savedTime': '',
         'messages': [
-            # {
-            #     'senderName': '',
-            #     'sentDate': '',
-            #     'sentTime': '',
-            #     'content': ''
-            # }
         ]
     }
 

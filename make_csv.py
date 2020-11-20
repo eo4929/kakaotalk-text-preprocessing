@@ -1,6 +1,7 @@
 import json
 from get_features import get_features_all
 
+
 with open('input.json', 'r', encoding='UTF8') as jsonf:
     args = json.load(jsonf)['args']
 
