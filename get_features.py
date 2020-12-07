@@ -10,7 +10,7 @@ def is_within_month(saved_date, sent_date):
     d0 = date(saved_year, saved_month, saved_date)
     d1 = date(sent_year, sent_month, sent_date)
     diff = d0 - d1
-    if diff.days <= 31:
+    if diff.days <= 93:
         return True
     else:
         return False
